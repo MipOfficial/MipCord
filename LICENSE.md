@@ -9,7 +9,7 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 
 “Application” refers to the Discord Client Application and all related files, code, documentation, and updates.
 “User” refers to any individual or entity that uses, contributes to, or accesses the Application.
-“Creator” refers to [Your Name or Organization], the original developer and maintainer of the Application.
+“Creator” refers to MipOfficial, the original developer and maintainer of the Application.
 3. License Grant
 The Creator hereby grants Users a non-exclusive, worldwide, royalty-free, and perpetual license to use, modify, and distribute the Application under the following conditions:
 
